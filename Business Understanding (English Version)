@@ -1,0 +1,32 @@
+This project aims to analyze an online retail dataset in order to understand sales performance, customer behavior, and business opportunities. The main goal is to transform raw transactional data into actionable business insights that can support revenue growth, customer retention, and smarter decision-making.
+
+The project focuses on three main business areas.
+
+The first area is sales performance understanding.
+By analyzing the dataset, the business can measure total revenue, number of orders, number of customers, top-selling products, top revenue-generating products, and the most important markets or countries. This provides a clear view of overall business performance and helps identify which products, periods, and markets drive the business the most.
+
+The second area is customer understanding.
+A business does not only need to know what was sold, but also who the customers are and how they behave. For that reason, customers are analyzed and segmented into meaningful groups such as high-value customers, regular customers, loyal customers, and at-risk customers.
+This segmentation helps the business apply different strategies for each group.
+For example:
+
+High-value customers should be retained through exclusive offers and better service.
+Regular customers can be encouraged to spend more through upselling and personalized campaigns.
+At-risk customers should be reactivated through retention campaigns and incentives.
+
+The third area is customer churn prediction.
+The project includes a predictive component that estimates whether a customer is likely to stop purchasing. The business value of this step is very important because it shifts the analysis from understanding the past to anticipating future risk. If the company can identify customers who are likely to churn, it can take proactive action before losing them.
+
+The importance of this project lies in its ability to convert transactional data into business value.
+Instead of treating the dataset as simple records, it is used to answer important business questions such as:
+
+When do sales increase and decrease?
+Which products generate the highest value?
+Which markets are the most important?
+What customer segments exist in the business?
+Which customers should be protected and retained?
+Which customers are likely to churn?
+How can marketing, inventory, and customer strategy be improved?
+
+In conclusion, this project supports better decision-making across sales, marketing, customer management, and retention strategy.
+It is not only a data analysis project, but also a business intelligence and decision-support solution that helps the company improve performance and reduce customer loss.
