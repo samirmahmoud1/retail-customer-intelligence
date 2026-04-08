@@ -4,4 +4,4 @@ pandas
 plotly
 scikit-learn
 xgboost
-openpyxlس
+openpyxl
